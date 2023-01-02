@@ -1,3 +1,4 @@
 # Hi this is Demo to start on GitHub
 
-I really love AI and machine Learning
+I really love AI and machine Learning! 
+and computer Science in general to be honest.
